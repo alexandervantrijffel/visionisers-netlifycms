@@ -16177,11 +16177,6 @@ truncate-utf8-bytes@^1.0.0:
   dependencies:
     utf8-byte-length "^1.0.1"
 
-ts-essentials@^9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-9.1.0.tgz#0aa567b6b55d3f72afd7a331f3071aa102c58c38"
-  integrity sha512-L0ggCct1zrW4qoVs3+sVZvT3upDdbPGJTsfIau9kiZxlyRFaMWDZxAI/VsM1HX9fCJWgoNoynxYm2GcxwQtDMg==
-
 ts-invariant@^0.4.0:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/ts-invariant/-/ts-invariant-0.4.4.tgz#97a523518688f93aafad01b0e80eb803eb2abd86"
@@ -16808,11 +16803,9 @@ url@^0.11.0:
     querystring "0.2.0"
 
 use-composed-ref@^1.0.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/use-composed-ref/-/use-composed-ref-1.2.0.tgz#b7dd984d92a3fbdab1856e819189831a20e08f32"
-  integrity sha512-wsb0PTUb9wOgEDwmsV+h2tacb22MLwsIm/c5wVICTQ8quM1DOTZwR0CzOWFzGkpzDAXN1v7agurjkNMa8CspOg==
-  dependencies:
-    ts-essentials "^9.1.0"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/use-composed-ref/-/use-composed-ref-1.2.1.tgz#9bdcb5ccd894289105da2325e1210079f56bf849"
+  integrity sha512-6+X1FLlIcjvFMAeAD/hcxDT8tmyrWnbSPMU0EnxQuDLIxokuFzWliXBiYZuGIx+mrAMLBw0WFfCkaPw8ebzAhw==
 
 use-isomorphic-layout-effect@^1.0.0:
   version "1.1.1"
